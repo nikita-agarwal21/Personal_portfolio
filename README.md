@@ -20,4 +20,4 @@ or follow SHAPEAI on:
 . www.linkedin.com/company/shapeai/
 . www.instagram.com/shape.ai/
 . www.youtube.com/channel/
-. https://github.com/shapeai
+. https://github.com/shapeai  
