@@ -17,7 +17,7 @@ during these 7 days, and everything was explained from the very basics so that a
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech
 
 or follow SHAPEAI on:
-. LinkedIn
-.Instagram
-. YouTube
-. GitHub 
+. www.linkedin.com/company/shapeai/
+. www.instagram.com/shape.ai/
+. www.youtube.com/channel/
+. https://github.com/shapeai
